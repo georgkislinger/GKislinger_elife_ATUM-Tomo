@@ -8,8 +8,9 @@ Supplementary files for "ATUM-Tomo: A multi-scale approach to cellular ultrastru
 |-------------------------------------------------------------|---------------------|----------------------------------|
 | Mini Gearmotor 12 V DC, 25 rpm @ 47 in/oz                   | McMaster-Carr       | 6331K32                          |
 | Enclosed AC to DC Motor Speed Control                       | McMaster-Carr       | 7793k51                          |
-| Pololu Jrk G2 21v3 USB Motor Controller with Feedback       | Pololu              | EXP-R25-1198                     |
-| Pololu 150:1 Metal Gearmotor 37Dx73L mm with Encoder        | Pololu              | EXP-R25-1413                     |
+| Or preferred more powerful at low speeds                      |
+| Pololu Jrk G2 21v3 USB Motor Controller with Feedback       | Pololu              | 3143                     |
+| Pololu 150:1 Metal Gearmotor 37Dx73L mm with Encoder        | Pololu              | 2828                     |
 
 ### Chamber
 | Item                                                        | Manufacturer        | Part-No or Ref-No                |
@@ -25,5 +26,5 @@ Supplementary files for "ATUM-Tomo: A multi-scale approach to cellular ultrastru
 | Item                                                        | Manufacturer        | Part-No or Ref-No                |
 |-------------------------------------------------------------|---------------------|----------------------------------|
 | Tape                                                        | Not specified       | Not specified                    |
-| Adhesive Tape                                               | Not specified       | Not specified                    |
+| Adhesive Tape                                               | Tesa      | Not specified                    |
 
